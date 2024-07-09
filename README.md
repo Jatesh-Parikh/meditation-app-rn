@@ -1,5 +1,25 @@
 # Welcome to your Expo app 👋
 
+## Home Screen
+
+![home screen](./home-screen.jpeg)
+
+## Affirmation Screen
+
+![affirmation screen](./affirmations-screen.jpeg)
+
+## Meditation Screen
+
+![Meditation screen](./meditation-screen.jpeg)
+
+## Affirmation Details Screen
+
+![Affirmation Details](./affirmation-details.jpeg)
+
+## Meditation Details Screen
+
+![Meditation Details](./meditation-detail.jpeg)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
