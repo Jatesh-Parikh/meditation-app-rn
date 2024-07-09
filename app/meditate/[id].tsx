@@ -40,7 +40,7 @@ const Page = () => {
 
   useEffect(() => {
     return () => {
-      setDuration(10);
+      //   setDuration(10);
       audioSound?.unloadAsync();
     };
   }, [audioSound]);
